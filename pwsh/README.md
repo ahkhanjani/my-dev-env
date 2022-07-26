@@ -1,0 +1,3 @@
+```bash
+notepad $PROFILE
+```
